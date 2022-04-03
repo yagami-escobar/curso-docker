@@ -1,0 +1,4 @@
+Hola Jhordan este es un mensaje de bienvenido al crear un container basado en la imagen que creaste desde 0
+con su Docker File y haber buileado, este container comparte una ruta de montaje con el volume dbdata2 y el exterior.
+
+Saludos :)
